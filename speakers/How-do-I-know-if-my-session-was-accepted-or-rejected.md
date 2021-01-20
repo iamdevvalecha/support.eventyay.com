@@ -8,7 +8,7 @@ If you are interested in helping to create the documentation for the project, pl
 
 Thank you!
 # How do I know if my session was accepted or rejected ?
-In order to know if my session was accepted or rejected ,please follow these steps:
+In order to know if my session was accepted or rejected, please follow these steps:
 
 ## Step 1: Log in
 `Log in` by using your `username` and `password`
@@ -25,6 +25,6 @@ Here on `my Sessions` page you see the events were your sessions are scheduled, 
 
 **IN THIS WAY YOU WILL CAME TO KNOW IF YOUR SESSION IS ACCEPTED OR REJECTED**
 
-Finally,done
+Finally,done.
 
-Thanks for your visit **http://support.eventyay.com**
+Thanks for your visit **http://support.eventyay.com**.

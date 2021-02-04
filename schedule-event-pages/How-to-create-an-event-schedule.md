@@ -19,7 +19,7 @@ Now click on `create event`
 ![create event](/images/How-to-create-an-event-schedule-2.png)
 
 ## Step 3: Fill Details
-Now enter `event name and type`and then enter`venue/online/mixed/to be announced` after this add `Location,Live Stream URL,Webinar URL...`and then enter **schedule**
+Now enter `event name and type`and then enter`venue/online/mixed/to be announced` after this add `Location, Live Stream URL, Webinar URL...`and then enter **schedule**
 that when it `starts and end` then `timezone` 
 ![details page](/images/How-to-create-an-event-schedule-3.png)
 ## Step 4 :Finally fill other details and then publish it. 

@@ -22,11 +22,11 @@ Now click on `my sessions` and then, select the `session` you want to withdraw s
 
 ## Step 3: View Session
 Now click on `WITHDRAW BUTTON`
-![view session](/images/I-am-no-longer-able-to-participate-as-a-speaker-at-an-event-how-can-I-withdraw-my-submission-4.png)
+![view session](/images/I-am-no-longer-able-to-participate-as-a-speaker-at-an-event-how-can-I-withdraw-my-submission-04.png)
 
 ## Step 4: Withdraw Proposal
 Now click on `Withdraw Proposal`
-![withdraw](/images/I-am-no-longer-able-to-participate-as-a-speaker-at-an-event-how-can-I-withdraw-my-submission-5.png)
+![withdraw](/images/I-am-no-longer-able-to-participate-as-a-speaker-at-an-event-how-can-I-withdraw-my-submission-05.png)
 ![withdraw](/images/I-am-no-longer-able-to-participate-as-a-speaker-at-an-event-how-can-I-withdraw-my-submission-6.png)
 
 *PROPOSAL HAS BEEN WITHDRAWN SUCESSFULLY*

@@ -12,7 +12,7 @@ In order to collect tax for tickets sell, please follow these steps:
 
 ## Step 1: Log in
 `Log in` by using your `username` and `password`
-![login page](/images/Can-I-collect-tax-in-my-ticket-sales-1.png)
+![login page](/images/Can-I-collect-tax-in-my-ticket-sales-01.png)
 
 ## Step 2 : Manage events
 Now,click on `manage events`
@@ -24,12 +24,12 @@ Now, `select the event` in which you want to **collect tax** for ticket sale and
 
 ## Step 4 : Event dashboard
 Now, click on `basic details` in event checklist
-![event dashboard](/images/Can-I-collect-tax-in-my-ticket-sales-4.png)
+![event dashboard](/images/Can-I-collect-tax-in-my-ticket-sales-04.png)
 
 ## Step 5 : Basic details
 Now, fill all the basic details for tickets `ticket name , price , quantity` and now click on `add tax info`
-![basic details](/images/Can-I-collect-tax-in-my-ticket-sales-5.png)
-![basic details](/images/Can-I-collect-tax-in-my-ticket-sales-6.png)
+![basic details](/images/Can-I-collect-tax-in-my-ticket-sales-05.png)
+![basic details](/images/Can-I-collect-tax-in-my-ticket-sales-06.png)
 ![basic details](/images/Can-I-collect-tax-in-my-ticket-sales-7.png)
 
 ## Step 6 : Add Tax information

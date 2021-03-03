@@ -24,20 +24,20 @@ Now, `select the event` in which you want to sell the tickets using stripe and t
 
 ## Step 4 : Event dashboard
 Now, click on `basic details` in event checklist
-![event dashboard](/images/How-do-I-sell-tickets-using-Stripe-4.png)
+![event dashboard](/images/How-do-I-sell-tickets-using-Stripe-04.png)
 
 ## Step 5 : Basic details
 Now, fill all the basic details for tickets `ticket name , price , quantity`
-![basic details](/images/How-do-I-sell-tickets-using-Stripe-5.png)
-![basic details](/images/How-do-I-sell-tickets-using-Stripe-6.png)
+![basic details](/images/How-do-I-sell-tickets-using-Stripe-05.png)
+![basic details](/images/How-do-I-sell-tickets-using-Stripe-06.png)
 
 ## Step 6 : Payment by stripe
 Now `tick mark` on payment by stripe **YES** accept payment via stripe and click on `connect with stripe`.
-![payment by stripe](/images/How-do-I-sell-tickets-using-Stripe-7.png)
+![payment by stripe](/images/How-do-I-sell-tickets-using-Stripe-07.png)
 
 ## Step 7 : Authorise access to this account
 Now `fill details`  and then `authorise your account` and then, start selling the tickets using stripe.
-![connect stripe](/images/How-do-I-sell-tickets-using-Stripe-8.png)
+![connect stripe](/images/How-do-I-sell-tickets-using-Stripe-08.png)
 
 finally,done 
 
